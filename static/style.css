@@ -18,7 +18,11 @@ body{
 }
 
 .head-left{
-    padding: 0px 970px 0px 15px;
+    padding: 0px 950px 0px 15px;
+    .logo-txt{
+        font-size: 1em;
+        max-width: 250px;
+    }
 }
 
 .head-right{
